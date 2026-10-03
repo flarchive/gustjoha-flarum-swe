@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of gustjoha/flarum-swe.** Not for installation: use [Packagist](https://packagist.org/packages/gustjoha/flarum-swe) or the [upstream repository](https://github.com/gustjoha/flarum-swe).
 
-**0** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/gustjoha-flarum-swe/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.0.0`
+**6** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/gustjoha-flarum-swe/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2021-03-10 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/gustjoha-flarum-swe/tree/archive/v1.0) |
+| `1.0.1` | 2021-03-10 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/gustjoha-flarum-swe/tree/archive/v1.0.1) |
+| `1.0.2` | 2021-03-10 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/gustjoha-flarum-swe/tree/archive/v1.0.2) |
+| `1.0.3` | 2021-04-09 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/gustjoha-flarum-swe/tree/archive/v1.0.3) |
+| `1.1.0` | 2021-05-28 | `^1.0.0` | [Browse](https://github.com/flarchive/gustjoha-flarum-swe/tree/archive/v1.1.0) |
+| `1.1.1` | 2021-05-28 | `^1.0.0` | [Browse](https://github.com/flarchive/gustjoha-flarum-swe/tree/archive/v1.1.1) |
 
 Catalog entry: [packages/gustjoha-flarum-swe.json](https://github.com/flarchive/archive-index/blob/main/packages/gustjoha-flarum-swe.json)
 
